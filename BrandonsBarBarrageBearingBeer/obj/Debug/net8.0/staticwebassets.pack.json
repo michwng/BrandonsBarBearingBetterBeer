@@ -1,303 +1,323 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BrandonsBarBarrageBearingBeer.bundle.scp.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BrandonsBarBarrageBearingBeer.bundle.scp.css",
       "PackagePath": "staticwebassets\\BrandonsBarBarrageBearingBeer.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GBackgrounds\\StarrySky.jpg",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\EFile.cs",
+      "PackagePath": "staticwebassets\\EFile.cs"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GBackgrounds\\StarrySky.jpg",
       "PackagePath": "staticwebassets\\GBackgrounds\\StarrySky.jpg"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\susi.mp3",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\susi.mp3",
       "PackagePath": "staticwebassets\\GSounds\\susi.mp3"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\sussymanor.mp3",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\sussymanor.mp3",
       "PackagePath": "staticwebassets\\GSounds\\sussymanor.mp3"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\Bartender.jpg",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\Bartender.jpg",
       "PackagePath": "staticwebassets\\GSprites\\Bartender\\Bartender.jpg"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderConfused.png",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderConfused.png",
       "PackagePath": "staticwebassets\\GSprites\\Bartender\\BartenderConfused.png"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderHappy.png",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderHappy.png",
       "PackagePath": "staticwebassets\\GSprites\\Bartender\\BartenderHappy.png"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderTB.png",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderHighRes.jpg",
+      "PackagePath": "staticwebassets\\GSprites\\Bartender\\BartenderHighRes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderTB.png",
       "PackagePath": "staticwebassets\\GSprites\\Bartender\\BartenderTB.png"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderTicked.png",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderTicked.png",
       "PackagePath": "staticwebassets\\GSprites\\Bartender\\BartenderTicked.png"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderWINK.png",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderWINK.png",
       "PackagePath": "staticwebassets\\GSprites\\Bartender\\BartenderWINK.png"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Nothing.png",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Lady\\Lady.jpg",
+      "PackagePath": "staticwebassets\\GSprites\\Lady\\Lady.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Lady\\LadyHappy.jpg",
+      "PackagePath": "staticwebassets\\GSprites\\Lady\\LadyHappy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Lady\\LadyInnocent.jpg",
+      "PackagePath": "staticwebassets\\GSprites\\Lady\\LadyInnocent.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Nothing.png",
       "PackagePath": "staticwebassets\\GSprites\\Nothing.png"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Title\\TitleImage.png",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Title\\TitleImage.png",
       "PackagePath": "staticwebassets\\GSprites\\Title\\TitleImage.png"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Title\\TitleImageCropped.png",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Title\\TitleImageCropped.png",
       "PackagePath": "staticwebassets\\GSprites\\Title\\TitleImageCropped.png"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GStylesheets\\index.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GStylesheets\\index.css",
       "PackagePath": "staticwebassets\\GStylesheets\\index.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GStylesheets\\style.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GStylesheets\\style.css",
       "PackagePath": "staticwebassets\\GStylesheets\\style.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

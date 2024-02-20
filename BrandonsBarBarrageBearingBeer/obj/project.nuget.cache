@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XX0rtTvqHhhg0esH/p3nvoHCBJ99PvedLvxvRkkraAvBTQC9FZzBZKlFU2n6u6X0jih00nspERS8Z6DPiPmjFw==",
+  "dgSpecHash": "nMVTNkqe1VDxn0GnGlIEvkGNkpirsjEv2D6WGvPcsWoAma0eYQHYdMER9FFRkZHdF1BOjff8Yn6HiOhqBkVIIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer.csproj",
+  "projectFilePath": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mwnmw\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\mwnmw\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

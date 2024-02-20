@@ -6605,11 +6605,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer.csproj",
+      "projectUniqueName": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer.csproj",
       "projectName": "BrandonsBarBarrageBearingBeer",
-      "projectPath": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer.csproj",
+      "projectPath": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer.csproj",
       "packagesPath": "C:\\Users\\mwnmw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5ProjectOLD\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\obj\\",
+      "outputPath": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mwnmw\\AppData\\Roaming\\NuGet\\NuGet.Config",
