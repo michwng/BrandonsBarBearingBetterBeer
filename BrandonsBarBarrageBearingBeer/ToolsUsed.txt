@@ -1,0 +1,5 @@
+Some Tools I Used to Help Make This Project.
+Ranked from Most Helpful to Least Helpful:
+
+1. TeleportHQ - Used to create the format and template to stage the visual novel
+2. https://www.coolgenerator.com/text-image-generator (Text-To-Image Generator)
