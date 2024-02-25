@@ -1,5 +1,10 @@
 Some Tools I Used to Help Make This Project.
 Ranked from Most Helpful to Least Helpful:
 
-1. TeleportHQ - Used to create the format and template to stage the visual novel
+1. TeleportHQ - Used to create the format and template to stage the visual novel.
 2. https://www.coolgenerator.com/text-image-generator (Text-To-Image Generator)
+3. Novel AI [Free Version] (I can't make up a lively conversation in my mind, so I used the 50 free generations.)
+4. NightCafe (AI Image Generator. Generated some original images that I would use in game.)
+5. Photopea (Used to help edit out backgrounds for Character Sprites.)
+6. MuseScore4 (for composing the Background Music and using ).
+7. https://mp3cut.net/ - Used for cutting the text engine audio to a small mp3 file (wwwroot/GSounds/MVoice.mp3).

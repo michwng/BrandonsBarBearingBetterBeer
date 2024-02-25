@@ -8,8 +8,6 @@
 
   <ItemGroup>
     <None Include="wwwroot\GSprites\Bartender\Bartender.jpg" />
-    <None Include="wwwroot\GSounds\susi.mp3" />
-    <None Include="wwwroot\GSounds\sussymanor.mp3" />
   </ItemGroup>
 
   <ItemGroup>

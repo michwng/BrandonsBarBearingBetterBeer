@@ -5,20 +5,28 @@
       "PackagePath": "staticwebassets\\BrandonsBarBarrageBearingBeer.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\EFile.cs",
-      "PackagePath": "staticwebassets\\EFile.cs"
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GBackgrounds\\BarEntrance.jpg",
+      "PackagePath": "staticwebassets\\GBackgrounds\\BarEntrance.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GBackgrounds\\CozyHome.jpg",
+      "PackagePath": "staticwebassets\\GBackgrounds\\CozyHome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GBackgrounds\\EmptyBar.jpg",
+      "PackagePath": "staticwebassets\\GBackgrounds\\EmptyBar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GBackgrounds\\RefinedHome.jpg",
+      "PackagePath": "staticwebassets\\GBackgrounds\\RefinedHome.jpg"
     },
     {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GBackgrounds\\StarrySky.jpg",
       "PackagePath": "staticwebassets\\GBackgrounds\\StarrySky.jpg"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\susi.mp3",
-      "PackagePath": "staticwebassets\\GSounds\\susi.mp3"
-    },
-    {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\sussymanor.mp3",
-      "PackagePath": "staticwebassets\\GSounds\\sussymanor.mp3"
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\An Empty Bar.mp3",
+      "PackagePath": "staticwebassets\\GSounds\\An Empty Bar.mp3"
     },
     {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\Bartender.jpg",
@@ -37,6 +45,14 @@
       "PackagePath": "staticwebassets\\GSprites\\Bartender\\BartenderHighRes.jpg"
     },
     {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderSweatBig.png",
+      "PackagePath": "staticwebassets\\GSprites\\Bartender\\BartenderSweatBig.png"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderSweatSmall.png",
+      "PackagePath": "staticwebassets\\GSprites\\Bartender\\BartenderSweatSmall.png"
+    },
+    {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderTB.png",
       "PackagePath": "staticwebassets\\GSprites\\Bartender\\BartenderTB.png"
     },
@@ -49,16 +65,56 @@
       "PackagePath": "staticwebassets\\GSprites\\Bartender\\BartenderWINK.png"
     },
     {
-      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Lady\\Lady.jpg",
-      "PackagePath": "staticwebassets\\GSprites\\Lady\\Lady.jpg"
-    },
-    {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Lady\\LadyHappy.jpg",
       "PackagePath": "staticwebassets\\GSprites\\Lady\\LadyHappy.jpg"
     },
     {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Lady\\LadyInnocent.jpg",
       "PackagePath": "staticwebassets\\GSprites\\Lady\\LadyInnocent.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Lady\\LadyInnocentLowRes.jpg",
+      "PackagePath": "staticwebassets\\GSprites\\Lady\\LadyInnocentLowRes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Lady\\LadyOriginal.jpg",
+      "PackagePath": "staticwebassets\\GSprites\\Lady\\LadyOriginal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Lady\\LadyTB.png",
+      "PackagePath": "staticwebassets\\GSprites\\Lady\\LadyTB.png"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Michael\\MichaelHappy.png",
+      "PackagePath": "staticwebassets\\GSprites\\Michael\\MichaelHappy.png"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Michael\\MichaelOriginal.jpg",
+      "PackagePath": "staticwebassets\\GSprites\\Michael\\MichaelOriginal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Michael\\MichaelSweat.png",
+      "PackagePath": "staticwebassets\\GSprites\\Michael\\MichaelSweat.png"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Michael\\MichaelSweatBig.png",
+      "PackagePath": "staticwebassets\\GSprites\\Michael\\MichaelSweatBig.png"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Michael\\MichaelSweatSmall.png",
+      "PackagePath": "staticwebassets\\GSprites\\Michael\\MichaelSweatSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Michael\\MichaelTB.png",
+      "PackagePath": "staticwebassets\\GSprites\\Michael\\MichaelTB.png"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Michael\\MichaelTicked.png",
+      "PackagePath": "staticwebassets\\GSprites\\Michael\\MichaelTicked.png"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Michael\\MichaelWink.png",
+      "PackagePath": "staticwebassets\\GSprites\\Michael\\MichaelWink.png"
     },
     {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Nothing.png",
@@ -79,6 +135,14 @@
     {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GStylesheets\\style.css",
       "PackagePath": "staticwebassets\\GStylesheets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GVoiceovers\\AudacityFiles\\M1.aup3",
+      "PackagePath": "staticwebassets\\GVoiceovers\\AudacityFiles\\M1.aup3"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GVoiceovers\\M1.mp3",
+      "PackagePath": "staticwebassets\\GVoiceovers\\M1.mp3"
     },
     {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\css\\site.css",

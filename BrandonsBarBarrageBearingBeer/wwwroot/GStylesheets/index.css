@@ -67,17 +67,21 @@
   flex-direction: row;
   justify-content: flex-start;
 }
+/* The Left-Picture Image. */
 .home-image1 {
   flex: 1;
   width: 50%;
   height: 100%;
   object-fit: cover;
+  align-self: end;
 }
+/* The Left-Picture Image. */
 .home-image2 {
-  flex: 1;
-  width: 50%;
-  height: 100%;
-  object-fit: cover;
+    flex: 1;
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+    align-self: end;
 }
 .home-container3 {
   flex: 1;

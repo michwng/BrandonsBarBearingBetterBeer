@@ -700,9 +700,9 @@ C:\Users\mwnmw\OneDrive\Documents\B5Project\BrandonsBarBarrageBearingBeer\Brando
 C:\Users\mwnmw\OneDrive\Documents\B5Project\BrandonsBarBarrageBearingBeer\BrandonsBarBarrageBearingBeer\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\mwnmw\OneDrive\Documents\B5Project\BrandonsBarBarrageBearingBeer\BrandonsBarBarrageBearingBeer\obj\Debug\net8.0\scopedcss\bundle\BrandonsBarBarrageBearingBeer.styles.css
 C:\Users\mwnmw\OneDrive\Documents\B5Project\BrandonsBarBarrageBearingBeer\BrandonsBarBarrageBearingBeer\obj\Debug\net8.0\scopedcss\projectbundle\BrandonsBarBarrageBearingBeer.bundle.scp.css
-C:\Users\mwnmw\OneDrive\Documents\B5Project\BrandonsBarBarrageBearingBeer\BrandonsBarBarrageBearingBeer\obj\Debug\net8.0\BrandonsBarBarrageBearingBeer.csproj.CopyComplete
 C:\Users\mwnmw\OneDrive\Documents\B5Project\BrandonsBarBarrageBearingBeer\BrandonsBarBarrageBearingBeer\obj\Debug\net8.0\BrandonsBarBarrageBearingBeer.dll
 C:\Users\mwnmw\OneDrive\Documents\B5Project\BrandonsBarBarrageBearingBeer\BrandonsBarBarrageBearingBeer\obj\Debug\net8.0\refint\BrandonsBarBarrageBearingBeer.dll
 C:\Users\mwnmw\OneDrive\Documents\B5Project\BrandonsBarBarrageBearingBeer\BrandonsBarBarrageBearingBeer\obj\Debug\net8.0\BrandonsBarBarrageBearingBeer.pdb
 C:\Users\mwnmw\OneDrive\Documents\B5Project\BrandonsBarBarrageBearingBeer\BrandonsBarBarrageBearingBeer\obj\Debug\net8.0\BrandonsBarBarrageBearingBeer.genruntimeconfig.cache
 C:\Users\mwnmw\OneDrive\Documents\B5Project\BrandonsBarBarrageBearingBeer\BrandonsBarBarrageBearingBeer\obj\Debug\net8.0\ref\BrandonsBarBarrageBearingBeer.dll
+C:\Users\mwnmw\OneDrive\Documents\B5Project\BrandonsBarBarrageBearingBeer\BrandonsBarBarrageBearingBeer\obj\Debug\net8.0\Brandons.3129A4F1.Up2Date
