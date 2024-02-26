@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\GBackgrounds\\BarEntrance.jpg"
     },
     {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GBackgrounds\\BusyChineseBuffet.jpg",
+      "PackagePath": "staticwebassets\\GBackgrounds\\BusyChineseBuffet.jpg"
+    },
+    {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GBackgrounds\\CozyHome.jpg",
       "PackagePath": "staticwebassets\\GBackgrounds\\CozyHome.jpg"
     },
@@ -25,8 +29,60 @@
       "PackagePath": "staticwebassets\\GBackgrounds\\StarrySky.jpg"
     },
     {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GFonts\\CreditFont.txt",
+      "PackagePath": "staticwebassets\\GFonts\\CreditFont.txt"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GFonts\\DancingScript-Bold.ttf",
+      "PackagePath": "staticwebassets\\GFonts\\DancingScript-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GFonts\\DancingScript-Regular.ttf",
+      "PackagePath": "staticwebassets\\GFonts\\DancingScript-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GFonts\\Righteous-Regular.ttf",
+      "PackagePath": "staticwebassets\\GFonts\\Righteous-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\An Empty Bar (No Melody).mp3",
+      "PackagePath": "staticwebassets\\GSounds\\An Empty Bar (No Melody).mp3"
+    },
+    {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\An Empty Bar.mp3",
       "PackagePath": "staticwebassets\\GSounds\\An Empty Bar.mp3"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\Astra.mp3",
+      "PackagePath": "staticwebassets\\GSounds\\Astra.mp3"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\AstrasTheme.mp3",
+      "PackagePath": "staticwebassets\\GSounds\\AstrasTheme.mp3"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\Audacity Note.txt",
+      "PackagePath": "staticwebassets\\GSounds\\Audacity Note.txt"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\Audacity\\BBeep.aup3",
+      "PackagePath": "staticwebassets\\GSounds\\Audacity\\BBeep.aup3"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\Audacity\\MBeep.aup3",
+      "PackagePath": "staticwebassets\\GSounds\\Audacity\\MBeep.aup3"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\Brandon.mp3",
+      "PackagePath": "staticwebassets\\GSounds\\Brandon.mp3"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\Michael.mp3",
+      "PackagePath": "staticwebassets\\GSounds\\Michael.mp3"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSounds\\Narrator.mp3",
+      "PackagePath": "staticwebassets\\GSounds\\Narrator.mp3"
     },
     {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\Bartender.jpg",
@@ -65,12 +121,24 @@
       "PackagePath": "staticwebassets\\GSprites\\Bartender\\BartenderWINK.png"
     },
     {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderXC.png",
+      "PackagePath": "staticwebassets\\GSprites\\Bartender\\BartenderXC.png"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Bartender\\BartenderXD.png",
+      "PackagePath": "staticwebassets\\GSprites\\Bartender\\BartenderXD.png"
+    },
+    {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Lady\\LadyHappy.jpg",
       "PackagePath": "staticwebassets\\GSprites\\Lady\\LadyHappy.jpg"
     },
     {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Lady\\LadyInnocent.jpg",
       "PackagePath": "staticwebassets\\GSprites\\Lady\\LadyInnocent.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Lady\\LadyInnocentComplete.png",
+      "PackagePath": "staticwebassets\\GSprites\\Lady\\LadyInnocentComplete.png"
     },
     {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Lady\\LadyInnocentLowRes.jpg",
@@ -115,6 +183,18 @@
     {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Michael\\MichaelWink.png",
       "PackagePath": "staticwebassets\\GSprites\\Michael\\MichaelWink.png"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Michael\\MichaelXC.png",
+      "PackagePath": "staticwebassets\\GSprites\\Michael\\MichaelXC.png"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Michael\\MichaelXD.png",
+      "PackagePath": "staticwebassets\\GSprites\\Michael\\MichaelXD.png"
+    },
+    {
+      "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Misc\\customer.jpg",
+      "PackagePath": "staticwebassets\\GSprites\\Misc\\customer.jpg"
     },
     {
       "Id": "C:\\Users\\mwnmw\\OneDrive\\Documents\\B5Project\\BrandonsBarBarrageBearingBeer\\BrandonsBarBarrageBearingBeer\\wwwroot\\GSprites\\Nothing.png",

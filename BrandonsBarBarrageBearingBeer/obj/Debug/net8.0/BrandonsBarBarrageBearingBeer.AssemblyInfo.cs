@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrandonsBarBarrageBearingBeer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2be989633005c49d7d684414e19b3009da63f1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd6d5de5179f6eac608d0f4effe7f3a0811aa72a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrandonsBarBarrageBearingBeer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrandonsBarBarrageBearingBeer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

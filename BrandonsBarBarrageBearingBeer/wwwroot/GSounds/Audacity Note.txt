@@ -1,0 +1,10 @@
+Generated using Audacity.
+Under Generate > Chirp...
+
+Frequency Chart:
+Michael: 246.94Hz, Sine Wave, Linear Interpolation
+Brandon: 116.54Hz, Sine Wave, Linear Interpolation
+Narrator: 130.81Hz, Triangle Wave, Linear Interpolation
+Astra: 1318.51Hz, Triangle Wave, Linear Interpolation
+
+Big thanks to https://muted.io/note-frequencies/
